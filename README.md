@@ -1,18 +1,74 @@
-# 💫 About Me:
-# 👋 Hi, I'm islam soliman— Full-Stack .NET Developer<br><br>I'm a Full-Stack Developer specializing in building scalable, secure, and high-performance applications using the .NET ecosystem.  <br>I enjoy transforming ideas into real-world solutions with clean architecture, optimized code, and modern frontend frameworks.<br><br>---<br>## 🤝 Open to Opportunities<br><br>I’m open to:<br>- Full-time .NET roles  <br>- Freelance projects  <br>- Collaborations  <br>- Open-source contributions  <br><br>Let’s build something great together!<br><br>
+# 👋 Hi, I'm Islam Soliman
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-1-soliman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:islamelayat38@gmail,com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=islamsoliman1&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=islamsoliman1&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=islamsoliman1&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💻 Full-Stack .NET Developer  
+🚀 Building scalable, secure, and high-performance web applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=islamsoliman1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I specialize in developing modern web applications using the .NET ecosystem.
+
+I focus on:
+- Clean Architecture
+- RESTful APIs
+- Scalable Backend Systems
+- Modern Frontend Applications
+
+I enjoy transforming ideas into real-world solutions with optimized performance and clean, maintainable code.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- C#  
+- ASP.NET Core  
+- Entity Framework Core  
+- Web API  
+
+### Frontend
+- Angular  
+- TypeScript  
+- JavaScript  
+- HTML & CSS  
+- Bootstrap  
+
+### Database
+- SQL Server  
+- PostgreSQL  
+- MySQL  
+
+### Tools & DevOps
+- Git & GitHub  
+- Azure  
+- Nginx  
+- Figma  
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Tripster** – Travel Booking System  
+ASP.NET Core + Angular  
+👉 https://github.com/islamsoliman1/Tripster  
+
+(ضيف هنا مشروعين كمان يكونوا أقوى حاجة عندك)
+
+---
+
+## 📊 GitHub Stats
+
+![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamsoliman1&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Open to Opportunities
+
+✔ Full-time .NET roles  
+✔ Freelance projects  
+✔ Collaborations  
+✔ Open-source contributions  
+
+📩 islamelayat38@gmail.com  
+🔗 linkedin.com/in/islam-1-soliman
